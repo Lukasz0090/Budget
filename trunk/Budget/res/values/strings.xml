@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twój Budżet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="etykieta_imie">Imię</string>
+    <string name="etykieta_nazwisko">Nazwisko</string>
+    <string name="etykieta_srednia">Średnia ocen</string>
+    <string name="oceny_przycisk">Oceny</string>
+    <string name="super_przycisk">Super :)</string>
+    <string name="nie_poszlo_przycisk">Nie poszło mi :(</string>
+    <string name="main_title">Twój Budżet</string>
+    <string name="expensessButtonText">Twoje Wydatki</string>
+    <string name="revenuesButtonText">Twoje Przychody</string>
+    <string name="shopListButtonText">Listy Zakupów</string>
+    <string name="statisticsButtonText">Statystyki</string>
+
+</resources>
